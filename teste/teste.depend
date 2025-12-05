@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1756425425 source:c:\users\fatec-dsm2\desktop\guilherme_dsm2\es1\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+
